@@ -1,9 +1,4 @@
 streamlit
-numpy
-matplotlib
-opencv-python
 librosa
 tensorflow
-pandas
-joblib
-scikit-learn
+numpy
